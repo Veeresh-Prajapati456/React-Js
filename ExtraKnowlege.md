@@ -8,3 +8,7 @@ The algorithm React uses to diff one tree with another to determine which parts 
 Reconciliation is the algorithm behind what is popularly understood as the "virtual DOM."
 
 Reconciliation is the diff algorith to compare two tree
+
+### IMP.
+Hooks(what is useRef) 
+when we have to get the reference of anything then we use useRef
